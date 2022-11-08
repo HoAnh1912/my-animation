@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "signature";
+  src: url("./TheScientistRegular.woff2") format("woff2"),
+    url("./TheScientistRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Ginger";
+  src: url("Ginger-Regular.woff2") format("woff2"),
+    url("Ginger-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+/* 
+@font-face {
+  font-family: "Ginger";
+  src: url("Ginger-Regular.woff2") format("woff2"),
+    url("Ginger-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+} */
